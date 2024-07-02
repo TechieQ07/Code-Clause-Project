@@ -1,4 +1,4 @@
-# FAKE-NEWS-DETECTION
+# FAKE NEWS DETECTION
 
 **Overview**
 > This project aims to develop and implement machine learning models to identify and classify fake news articles using natural language processing techniques.
